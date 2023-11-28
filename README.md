@@ -14,7 +14,8 @@
 <hr>
 <h2 align="center">Instrucciones de Uso</h2>
 <ul>
-  <li><b>Compilación:</b> Utiliza un compilador de C para compilar el código fuente. Por ejemplo, puedes usar GCC con el siguiente comando: 'gcc memorama.c -o memorama'.</li>
+  <li><b>Compilación:</b> Utiliza un compilador de C para compilar el código fuente. Por ejemplo, puedes usar GCC con el siguiente comando: 'gcc laboratoriodeanalisisclinicos.c -o laboratoriodeanalisisclinicos'.</li>
+  <li><b>Ejecución:</b> Ejecuta el programa resultante con './laboratoriodeanalisisclinicos' en la línea de comandos.</li>
   <li><b>Interacción con el Sistema:</b> Sigue las instrucciones en la consola para utilizar las diversas funcionalidades del sistema, como la gestión de pacientes, análisis clínicos, y generación de informes.</li>
   <li><b>Inicio de Sesión:</b><br><b>Usuario:</b> Jordan<br><b>Contraseña:</b> 179913</li>
   <i>Nota: Para acceder al sistema, utiliza el usuario proporcionado junto con la contraseña correspondiente. Este conjunto de credenciales te permitirá explorar y utilizar todas las funcionalidades del laboratorio de análisis clínicos.</i>
