@@ -2,7 +2,7 @@
 <p>Este repositorio alberga mi código fuente y los archivos relacionados con el proyecto final desarrollado en la clase de Programación 1. El proyecto consiste en un sistema completo para la gestión de un laboratorio de análisis clínicos, implementado en lenguaje C.</p>
 <hr>
 <div align="center">
-  <h2>Para la Realización del Juego se Utilizo: </h2>
+  <h2>Para la Realización del Proyecto se Utilizo: </h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" title="C" width="40px">
 </div>
 <hr>
