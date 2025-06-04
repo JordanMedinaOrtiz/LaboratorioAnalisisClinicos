@@ -46,7 +46,7 @@ The project simulates real operations such as registering patients, recording la
 
    ```sh
    git clone https://github.com/JordanMedinaOrtiz/laboratory-analysis-c.git
-   cd laboratory-analysis-c.git
+   cd laboratory-analysis-c
    ```
 
 2. Compile the program using GCC or any compatible C compiler:
