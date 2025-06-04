@@ -45,20 +45,25 @@ The project simulates real operations such as registering patients, recording la
 1. Clone this repository to your local machine:
 
    ```sh
-   git clone https://github.com/JordanMedinaOrtiz/memorama-c.git
-   cd memorama-c.git
+   git clone https://github.com/JordanMedinaOrtiz/laboratory-analysis-c.git
+   cd laboratory-analysis-c.git
    ```
 
 2. Compile the program using GCC or any compatible C compiler:
    ```sh
-   gcc memorama.c -o memorama
+   gcc laboratorioAnalisisClinicos.c -o laboratorioAnalisisClinicos
    ```
 
 3. Run the program:
    ```sh
-   gcc memorama.c -o memorama
+   ./laboratorioAnalisisClinicos
    ```
-4. Play the game
+4. Login credentials
+   <ul>
+     <li>Username: Jordan</li>
+     <li>Password: 179913</li>
+   </ul>
+5. Interact with the system
 
-<p>This solo-developed project was a great opportunity to combine my programming knowledge with a real application. It allowed me to reinforce core C programming concepts like arrays, conditionals, and loops, while building something interactive and enjoyable.</p>
+<p>This project, developed individually, reflects my progress in C programming through a complex and functional application. It pushed me to combine logic, data handling, and validation into a single cohesive system. It served as an excellent opportunity to understand how programming applies to real-world problems in the healthcare domain.</p>
 <img src="laboratory-analysis-c.png" alt="Project Image" title="Project Image" />
